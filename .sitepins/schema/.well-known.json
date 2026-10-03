@@ -1,0 +1,32 @@
+{
+  "file": "public/.well-known/sitepins.json",
+  "name": "public",
+  "fileType": "json",
+  "fmType": "json",
+  "template": [
+    {
+      "name": "cms",
+      "label": "Cms",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "generator",
+      "label": "Generator",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "version",
+      "label": "Version",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    }
+  ]
+}
