@@ -2,9 +2,7 @@
   "content": "public",
   "media": "public/assets",
   "public": "public",
-  "configs": [
-    "src/config"
-  ],
+  "configs": [],
   "custom-commit": false,
   "arrangement": []
 }
